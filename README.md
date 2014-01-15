@@ -9,7 +9,7 @@ Project 2 was a team effort with Jacob Stone, The Report, Main.cpp, check_input.
 
 
 
-Class material and work completed in fall 2012, please use as a reference only
+Class material and work completed in spring 2012, please use as a reference only
 or personal use, Copying work for individual assignments can not only fail you
 but is detrimental to learning.
 
