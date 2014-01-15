@@ -1,0 +1,150 @@
+[ customer testing one
+  Account# 6334
+  PIN 9500
+  Balance 1500
+  Transactions { (03/12/13 1500) (03/13/2013 500) (03/14/2013 -500) } ]
+[ customer alan achtenberg
+  Account# 41
+  PIN 1234
+  Balance 400
+  Transactions { (2/23/12 1000) (12/26/13 -600) } ]
+[ customer jason clinton
+  Account# 13372
+  PIN 1230
+  Balance 5794.63
+  Transactions { (3 0.98173) (4 -0.981733) (6 0.005) (7 -0.4) (8 905.55) (9 -0.55) (10 90) (11 -60) (123 32) (1234 -23) } ]
+[ customer joe smo
+  Account# 18467
+  PIN 7334
+  Balance 10005
+  Transactions { (2 10005) } ]
+[ customer heman mr.universe
+  Account# 26500
+  PIN 2169
+  Balance 1234
+  Transactions { (123 1234) } ]
+[ customer CY Chang
+  Account# 16838
+  PIN 6758
+  Balance 1005
+  Transactions { (03/07/13 1005) } ]
+[ customer harhar hardyharhar
+  Account# 19169
+  PIN 7724
+  Balance 9000
+  Transactions { (12/21/13 9000) } ]
+[ customer number two
+  Account# 15724
+  PIN 3478
+  Balance 1234
+  Transactions { (06/01/14 1234) } ]
+[ customer five people
+  Account# 11478
+  PIN 3358
+  Balance 1000
+  Transactions { (04/05/13 1000) } ]
+[ customer six people
+  Account# 6334
+  PIN 9500
+  Balance 1111
+  Transactions { (06/06/06 1111) } ]
+[ customer steve mcqueen
+  Account# 26500
+  PIN 2169
+  Balance 7777
+  Transactions { (07/07/07 7777) } ]
+[ customer lighning mcqueen
+  Account# 19169
+  PIN 7724
+  Balance 8888
+  Transactions { (08/08/08 8888) } ]
+[ customer john hancock
+  Account# 15724
+  PIN 3478
+  Balance 1111
+  Transactions { (11/11/11 1111) } ]
+[ customer jerry mcguire
+  Account# 11478
+  PIN 3358
+  Balance 142344
+  Transactions { (09/19/09 142344) } ]
+[ customer tired man
+  Account# 29358
+  PIN 9962
+  Balance 1555
+  Transactions { (01/02/13 1555) } ]
+[ customer graham bell
+  Account# 26962
+  PIN 7464
+  Balance 1000
+  Transactions { (04/07/31 1000) } ]
+[ customer bore ring
+  Account# 24464
+  PIN 6705
+  Balance 150024
+  Transactions { (11/29/12 150024) } ]
+[ customer justin achtenberg
+  Account# 5705
+  PIN 2145
+  Balance 2189
+  Transactions { (03/12/13 2189) } ]
+[ customer addie kelly
+  Account# 28145
+  PIN 6281
+  Balance 14325
+  Transactions { (11/23/99 14325) } ]
+[ customer kristopher griggs
+  Account# 23281
+  PIN 8827
+  Balance 2444
+  Transactions { (08/14/05 2444) } ]
+[ customer joshua griggs
+  Account# 16827
+  PIN 1961
+  Balance 43233
+  Transactions { (06/04/93 43233) } ]
+[ customer katie marie
+  Account# 9961
+  PIN 1491
+  Balance 1004
+  Transactions { (09/12/01 1004) } ]
+[ customer ricky bobby
+  Account# 491
+  PIN 3995
+  Balance 1002
+  Transactions { (03/03/03 1002) } ]
+[ customer danielle claire
+  Account# 2995
+  PIN 3942
+  Balance 2343
+  Transactions { (05/05/05 2343) } ]
+[ customer ahhh please
+  Account# 11942
+  PIN 5827
+  Balance 7777
+  Transactions { (01/01/01 7777) } ]
+[ customer gaius ceaser
+  Account# 4827
+  PIN 6436
+  Balance 8989
+  Transactions { (03/05/54 8989) } ]
+[ customer mr gru
+  Account# 5436
+  PIN 6391
+  Balance 1313
+  Transactions { (09/12/16 1313) } ]
+[ customer john mcarthy
+  Account# 32391
+  PIN 6604
+  Balance 9898
+  Transactions { (01/23/09 9898) } ]
+[ customer smokey bear
+  Account# 14604
+  PIN 4902
+  Balance 1445
+  Transactions { (05/23/93 1445) } ]
+[ customer chandra kelly
+  Account# 3902
+  PIN 1153
+  Balance 7639
+  Transactions { (09/19/79 7639) } ]
